@@ -1,0 +1,72 @@
+/* IMPORT ASSETS */
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&family=Jua&family=K2D:wght@700&display=swap");
+
+.main-nav {
+  height: 100px;
+  width: 100%;
+  background-color: #ffd1cd;
+  position: relative;
+  box-sizing: border-box;
+  border-bottom: 8px solid #2d283c;
+  z-index: 3;
+}
+#mail-logo {
+  display: inline-block;
+  position: absolute;
+  left: 37rem;
+  top: 1.3rem;
+}
+
+#NH1 {
+  position: absolute;
+  right: 1rem;
+}
+
+.msg-notif {
+  font-size: 30px;
+  padding-top: 25px;
+  text-align: center;
+  font-family: "K2D", sans-serif;
+  font-weight: bold;
+}
+
+#mainText {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 800;
+  font-size: 80px;
+}
+#left-hero {
+  padding-top: 5rem;
+  padding-left: 10rem;
+  background-color: #f6e0da;
+  height: 750px;
+}
+
+#right-hero {
+  height: 750px;
+  background-color: #fcbdd0;
+  border-left: 5px solid #000000;
+}
+.left-p {
+  font-family: "Jua", sans-serif;
+  font-size: 38px;
+}
+
+#hero-1 {
+  height: 750px;
+}
+
+.btn-primary {
+  background-color: #fcbdd0 !important;
+  border: none !important;
+  color: #000000 !important;
+  width: 323px;
+  height: 63px;
+}
+
+.btn {
+  padding-top: 0.3rem !important;
+  font-family: "K2D", sans-serif !important;
+  border: 2.3px #000000 solid !important;
+  font-size: 30px !important;
+}

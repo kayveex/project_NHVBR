@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&family=Jua&family=K2D:wght@700&display=swap");
+
+.main-nav {
+  height: 100px;
+  width: 100%;
+  background-color: #ffd1cd;
+  position: relative;
+  box-sizing: border-box;
+  border-bottom: 8px solid #2d283c;
+  z-index: 3;
+}
+#message {
+  padding-left: 20.8rem;
+  padding-top: 2rem;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "K2D", sans-serif;
+}
+#logo-mail {
+  position: relative;
+  left: 15.5rem;
+  bottom: 3rem;
+}
+
+#main-page {
+  height: 2314px;
+  background-color: #f6e0da;
+}
+
+.title-dear {
+  background: #fcbdd0;
+  border: 3.33333px solid #000000;
+  border-radius: 12.7936px;
+  position: absolute;
+  width: 358.89px;
+  height: 90px;
+  margin-top: 5rem;
+  margin-left: 40%;
+}
+
+#dear {
+  font-family: "K2D";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+#kokom-cute {
+  z-index: 1;
+  margin-top: 15rem;
+  margin-left: 20rem;
+}
+
+.paper-static {
+  width: 1215px;
+  height: 1091px;
+  background: #fcbdd0;
+  border: 3px solid #000000;
+  box-sizing: border-box;
+  margin-top: 8rem;
+  margin-left: 15rem;
+}
+
+.para {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  text-align: justify;
+  line-height: 40px;
+  margin: 2.5rem 2.5rem;
+}
+
+#state {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.box-look {
+  width: 393px;
+  height: 63px;
+  background: #f6e0da;
+  border: 2.30284px solid #000000;
+  border-radius: 11.5142px;
+  margin: 1.5rem 27rem;
+}
+
+#look {
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 40px;
+  text-align: center;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+}
